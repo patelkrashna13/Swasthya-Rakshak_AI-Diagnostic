@@ -1,4 +1,4 @@
-# Swasthya Rakshak - Healthcare Management System
+# Swasthya Rakshak - Healthcare AI Diagonastic 
 
 A comprehensive healthcare management platform designed to revolutionize rural healthcare delivery through telemedicine, AI-powered diagnostics, and efficient hospital management.
 
